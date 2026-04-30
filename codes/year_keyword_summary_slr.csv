@@ -1,0 +1,289 @@
+﻿Year,Keyword,Count,Display,Article_Count
+2024,artificial intelligence,2,artificial intelligence (2),3
+2024,detection method,2,detection method (2),3
+2024,Transfer learning,2,Transfer learning (2),3
+2024,accuracy assessment,1,accuracy assessment (1),3
+2024,agricultural modeling,1,agricultural modeling (1),3
+2024,agricultural technology,1,agricultural technology (1),3
+2024,artificial neural network,1,artificial neural network (1),3
+2024,Computer vision,1,Computer vision (1),3
+2024,Condition,1,Condition (1),3
+2024,Convolution,1,Convolution (1),3
+2024,Convolutional neural network,1,Convolutional neural network (1),3
+2024,convolutional neural network (CNN),1,convolutional neural network (CNN) (1),3
+2024,Convolutional neural networks,1,Convolutional neural networks (1),3
+2024,Deep neural networks,1,Deep neural networks (1),3
+2024,Detection and localization,1,Detection and localization (1),3
+2024,Digital agriculture,1,Digital agriculture (1),3
+2024,Disease detection,1,Disease detection (1),3
+2024,disease prevalence,1,disease prevalence (1),3
+2024,Disease symptoms,1,Disease symptoms (1),3
+2024,Diseases,1,Diseases (1),3
+2024,Downy mildew,1,Downy mildew (1),3
+2024,Ensemble learning,1,Ensemble learning (1),3
+2024,Explainable AI,1,Explainable AI (1),3
+2024,Explainable artificial intelligence,1,Explainable artificial intelligence (1),3
+2024,Fertilizers,1,Fertilizers (1),3
+2024,food security,1,food security (1),3
+2024,fungal disease,1,fungal disease (1),3
+2024,gradient-weighted class activation mapping (GRAD-CAM),1,gradient-weighted class activation mapping (GRAD-CAM) (1),3
+2024,image analysis,1,image analysis (1),3
+2024,Image augmentation,1,Image augmentation (1),3
+2024,Leaf disease,1,Leaf disease (1),3
+2024,machine learning,1,machine learning (1),3
+2024,Plant disease,1,Plant disease (1),3
+2024,plant diseases,1,plant diseases (1),3
+2024,pre-trained models,1,pre-trained models (1),3
+2024,support vector machine (SVM),1,support vector machine (SVM) (1),3
+2024,symptom,1,symptom (1),3
+2024,vine,1,vine (1),3
+2024,Vision transformer,1,Vision transformer (1),3
+2024,Vision transformers,1,Vision transformers (1),3
+2025,Deep learning,10,Deep learning (10),17
+2025,Explainable AI,8,Explainable AI (8),17
+2025,Convolutional neural networks,5,Convolutional neural networks (5),17
+2025,Plant disease,5,Plant disease (5),17
+2025,Plant diseases,5,Plant diseases (5),17
+2025,Precision agriculture,5,Precision agriculture (5),17
+2025,Transfer learning,5,Transfer learning (5),17
+2025,artificial intelligence,4,artificial intelligence (4),17
+2025,Decision making,4,Decision making (4),17
+2025,Feature extraction,4,Feature extraction (4),17
+2025,Grad-CAM,4,Grad-CAM (4),17
+2025,LIME,4,LIME (4),17
+2025,Smart agriculture,4,Smart agriculture (4),17
+2025,CNN,3,CNN (3),17
+2025,convolutional neural network,3,convolutional neural network (3),17
+2025,Disease classification,3,Disease classification (3),17
+2025,Disease detection,3,Disease detection (3),17
+2025,Explainable artificial intelligence,3,Explainable artificial intelligence (3),17
+2025,Leaf disease,3,Leaf disease (3),17
+2025,Learning systems,3,Learning systems (3),17
+2025,Machine learning,3,Machine learning (3),17
+2025,Plants (botany),3,Plants (botany) (3),17
+2025,Vision transformer,3,Vision transformer (3),17
+2025,Agriculture,2,Agriculture (2),17
+2025,artificial neural network,2,artificial neural network (2),17
+2025,classification,2,classification (2),17
+2025,Classification (of information),2,Classification (of information) (2),17
+2025,Computer vision,2,Computer vision (2),17
+2025,Convolution,2,Convolution (2),17
+2025,Convolutional neural networks (CNNs),2,Convolutional neural networks (CNNs) (2),17
+2025,Crops,2,Crops (2),17
+2025,Diagnosis,2,Diagnosis (2),17
+2025,Diseases,2,Diseases (2),17
+2025,Ensemble learning,2,Ensemble learning (2),17
+2025,MobileNetV2,2,MobileNetV2 (2),17
+2025,Sustainable development,2,Sustainable development (2),17
+2025,Adaptive particle swarm optimizations,1,Adaptive particle swarm optimizations (1),17
+2025,Additives,1,Additives (1),17
+2025,Adversarial machine learning,1,Adversarial machine learning (1),17
+2025,agricultural land,1,agricultural land (1),17
+2025,Agricultural machinery,1,Agricultural machinery (1),17
+2025,Agricultural monitoring,1,Agricultural monitoring (1),17
+2025,Agricultural robots,1,Agricultural robots (1),17
+2025,AI techniques,1,AI techniques (1),17
+2025,AlexNet,1,AlexNet (1),17
+2025,algorithm,1,algorithm (1),17
+2025,alternative agriculture,1,alternative agriculture (1),17
+2025,Apple leaf disease detection,1,Apple leaf disease detection (1),17
+2025,Automation,1,Automation (1),17
+2025,Barium compounds,1,Barium compounds (1),17
+2025,biotic stress,1,biotic stress (1),17
+2025,Bottle gourd disease classification,1,Bottle gourd disease classification (1),17
+2025,Canny,1,Canny (1),17
+2025,cat boost classifier,1,cat boost classifier (1),17
+2025,Chemical contamination,1,Chemical contamination (1),17
+2025,Citrus fruits,1,Citrus fruits (1),17
+2025,Classifiers,1,Classifiers (1),17
+2025,CNN model,1,CNN model (1),17
+2025,Computer,1,Computer (1),17
+2025,Contrastive Learning,1,Contrastive Learning (1),17
+2025,ConvNet models,1,ConvNet models (1),17
+2025,ConvNeXt,1,ConvNeXt (1),17
+2025,Convolutional neural network (CNN),1,Convolutional neural network (CNN) (1),17
+2025,crop damage,1,crop damage (1),17
+2025,Crop disease,1,Crop disease (1),17
+2025,Crop protection,1,Crop protection (1),17
+2025,Crop safety,1,Crop safety (1),17
+2025,Cucumber disease,1,Cucumber disease (1),17
+2025,Cucumber disease detection,1,Cucumber disease detection (1),17
+2025,Data augmentation,1,Data augmentation (1),17
+2025,Data mining,1,Data mining (1),17
+2025,DBA-ViNet,1,DBA-ViNet (1),17
+2025,Deep neural networks,1,Deep neural networks (1),17
+2025,detection method,1,detection method (1),17
+2025,disease,1,disease (1),17
+2025,edge detection,1,edge detection (1),17
+2025,EfficientNetB7,1,EfficientNetB7 (1),17
+2025,Explainable artificial intelligence (XAI),1,Explainable artificial intelligence (XAI) (1),17
+2025,extraction method,1,extraction method (1),17
+2025,Feature selection,1,Feature selection (1),17
+2025,Features selection,1,Features selection (1),17
+2025,Food safety,1,Food safety (1),17
+2025,Food supply,1,Food supply (1),17
+2025,Forecasting,1,Forecasting (1),17
+2025,Fruit,1,Fruit (1),17
+2025,Fruit disease classification,1,Fruit disease classification (1),17
+2025,fruit image classification,1,fruit image classification (1),17
+2025,Green AI,1,Green AI (1),17
+2025,hybrid deep learning,1,hybrid deep learning (1),17
+2025,Image classification,1,Image classification (1),17
+2025,Image enhancement,1,Image enhancement (1),17
+2025,Image segmentation,1,Image segmentation (1),17
+2025,ImageNet,1,ImageNet (1),17
+2025,Images classification,1,Images classification (1),17
+2025,Innovative approaches,1,Innovative approaches (1),17
+2025,insect,1,insect (1),17
+2025,Insect diversity monitoring,1,Insect diversity monitoring (1),17
+2025,instrumentation,1,instrumentation (1),17
+2025,Integrated gradient,1,Integrated gradient (1),17
+2025,integrated gradients,1,integrated gradients (1),17
+2025,IoT,1,IoT (1),17
+2025,leaf,1,leaf (1),17
+2025,Leaf disease detections,1,Leaf disease detections (1),17
+2025,Leaf diseases,1,Leaf diseases (1),17
+2025,lemon disease classification,1,lemon disease classification (1),17
+2025,Local interpretable model-agnostic explanation,1,Local interpretable model-agnostic explanation (1),17
+2025,local interpretable model-agnostic explanations (LIME),1,local interpretable model-agnostic explanations (LIME) (1),17
+2025,Loss functions,1,Loss functions (1),17
+2025,Machine-learning,1,Machine-learning (1),17
+2025,Maize leaf disease,1,Maize leaf disease (1),17
+2025,Malus,1,Malus (1),17
+2025,mango leaf disease,1,mango leaf disease (1),17
+2025,mango leaves,1,mango leaves (1),17
+2025,merged dataset,1,merged dataset (1),17
+2025,microbiology,1,microbiology (1),17
+2025,model fusion,1,model fusion (1),17
+2025,monitoring,1,monitoring (1),17
+2025,Multi-Class classification,1,Multi-Class classification (1),17
+2025,multi-head attention,1,multi-head attention (1),17
+2025,Multi-label plant disease,1,Multi-label plant disease (1),17
+2025,multi-label plant diseases,1,multi-label plant diseases (1),17
+2025,Multi-labels,1,Multi-labels (1),17
+2025,Neural Networks,1,Neural Networks (1),17
+2025,numerical model,1,numerical model (1),17
+2025,paddy leaf disease,1,paddy leaf disease (1),17
+2025,Particle swarm optimization (PSO),1,Particle swarm optimization (PSO) (1),17
+2025,Performance,1,Performance (1),17
+2025,pesticide,1,pesticide (1),17
+2025,plant disease classification,1,plant disease classification (1),17
+2025,Plant leaves,1,Plant leaves (1),17
+2025,Prewitt,1,Prewitt (1),17
+2025,ResNet,1,ResNet (1),17
+2025,ResNet152v2,1,ResNet152v2 (1),17
+2025,ResNet50,1,ResNet50 (1),17
+2025,rice,1,rice (1),17
+2025,Rice disease detection,1,Rice disease detection (1),17
+2025,Rice leaf disease,1,Rice leaf disease (1),17
+2025,Rice leaf diseases,1,Rice leaf diseases (1),17
+2025,Rice leaves,1,Rice leaves (1),17
+2025,Shapley,1,Shapley (1),17
+2025,Shapley additive explanation,1,Shapley additive explanation (1),17
+2025,shapley additive explanations (SHAP),1,shapley additive explanations (SHAP) (1),17
+2025,Shot segmentation,1,Shot segmentation (1),17
+2025,Soft voting ensemble,1,Soft voting ensemble (1),17
+2025,Soursop,1,Soursop (1),17
+2025,statistical analysis,1,statistical analysis (1),17
+2025,statistical features,1,statistical features (1),17
+2025,Statistical tests,1,Statistical tests (1),17
+2025,Tomato leaf,1,Tomato leaf (1),17
+2025,Transformer models,1,Transformer models (1),17
+2025,Transparency,1,Transparency (1),17
+2025,vision transformers,1,vision transformers (1),17
+2025,ViT,1,ViT (1),17
+2025,wheat crop disease,1,wheat crop disease (1),17
+2025,XAI,1,XAI (1),17
+2025,Xception,1,Xception (1),17
+2025,Zero hunger,1,Zero hunger (1),17
+2026,Deep learning,5,Deep learning (5),8
+2026,explainable AI,5,explainable AI (5),8
+2026,Computer vision,3,Computer vision (3),8
+2026,Convolutional neural network,3,Convolutional neural network (3),8
+2026,Convolutional neural networks,3,Convolutional neural networks (3),8
+2026,Deep neural networks,3,Deep neural networks (3),8
+2026,Explainable artificial intelligence,3,Explainable artificial intelligence (3),8
+2026,Leaf disease,3,Leaf disease (3),8
+2026,Learning systems,3,Learning systems (3),8
+2026,Agriculture,2,Agriculture (2),8
+2026,Classification (of information),2,Classification (of information) (2),8
+2026,Diseases,2,Diseases (2),8
+2026,Learning models,2,Learning models (2),8
+2026,Plants (botany),2,Plants (botany) (2),8
+2026,Activation mapping,1,Activation mapping (1),8
+2026,Agricultural monitoring,1,Agricultural monitoring (1),8
+2026,artificial neural network,1,artificial neural network (1),8
+2026,biological interpretability,1,biological interpretability (1),8
+2026,Chemical detection,1,Chemical detection (1),8
+2026,class imbalance,1,class imbalance (1),8
+2026,classification,1,classification (1),8
+2026,Convolution,1,Convolution (1),8
+2026,Convolutional neural networks (CNN),1,Convolutional neural networks (CNN) (1),8
+2026,Crop managements,1,Crop managements (1),8
+2026,Crop protection,1,Crop protection (1),8
+2026,Data mining,1,Data mining (1),8
+2026,Decision making,1,Decision making (1),8
+2026,Deep learning model,1,Deep learning model (1),8
+2026,Deep learning models,1,Deep learning models (1),8
+2026,Diagnosis,1,Diagnosis (1),8
+2026,Disease classification,1,Disease classification (1),8
+2026,Disease detection,1,Disease detection (1),8
+2026,disease severity,1,disease severity (1),8
+2026,Error detection,1,Error detection (1),8
+2026,Explainable AI (XAI),1,Explainable AI (XAI) (1),8
+2026,Feature selection,1,Feature selection (1),8
+2026,Florida [United States],1,Florida [United States] (1),8
+2026,Food sources,1,Food sources (1),8
+2026,Fruits,1,Fruits (1),8
+2026,generative adversarial networks,1,generative adversarial networks (1),8
+2026,Global context,1,Global context (1),8
+2026,Global context vision transformer,1,Global context vision transformer (1),8
+2026,Grad-CAM,1,Grad-CAM (1),8
+2026,GradCAM,1,GradCAM (1),8
+2026,Gradient-weighted class activation mapping,1,Gradient-weighted class activation mapping (1),8
+2026,Health assessments,1,Health assessments (1),8
+2026,Hyper-parameter optimizations,1,Hyper-parameter optimizations (1),8
+2026,Hyperparameter optimization,1,Hyperparameter optimization (1),8
+2026,Image classification,1,Image classification (1),8
+2026,image diagnostic,1,image diagnostic (1),8
+2026,Image enhancement,1,Image enhancement (1),8
+2026,Information management,1,Information management (1),8
+2026,Insect detection,1,Insect detection (1),8
+2026,Leaf classification,1,Leaf classification (1),8
+2026,leaf disease detection,1,leaf disease detection (1),8
+2026,Learning algorithms,1,Learning algorithms (1),8
+2026,LIME,1,LIME (1),8
+2026,Locally interpretable model-agnostic explanation,1,Locally interpretable model-agnostic explanation (1),8
+2026,Loss functions,1,Loss functions (1),8
+2026,machine learning techniques,1,machine learning techniques (1),8
+2026,Mango leaf disease,1,Mango leaf disease (1),8
+2026,Mango leaf diseases,1,Mango leaf diseases (1),8
+2026,MobileNetV2,1,MobileNetV2 (1),8
+2026,Neural-networks,1,Neural-networks (1),8
+2026,Paddy leaf disease classification,1,Paddy leaf disease classification (1),8
+2026,pest damage,1,pest damage (1),8
+2026,pest severity estimation,1,pest severity estimation (1),8
+2026,pest symptom detection,1,pest symptom detection (1),8
+2026,Plant disease,1,Plant disease (1),8
+2026,Plant diseases,1,Plant diseases (1),8
+2026,Plant stress,1,Plant stress (1),8
+2026,Precision agriculture,1,Precision agriculture (1),8
+2026,Resource management,1,Resource management (1),8
+2026,rice disease detection,1,rice disease detection (1),8
+2026,saliency maps,1,saliency maps (1),8
+2026,Sericulture,1,Sericulture (1),8
+2026,Silk,1,Silk (1),8
+2026,Simple++,1,Simple++ (1),8
+2026,Statistical tests,1,Statistical tests (1),8
+2026,symptom,1,symptom (1),8
+2026,Thermal imagery,1,Thermal imagery (1),8
+2026,Thermal imaging,1,Thermal imaging (1),8
+2026,Thermal-imaging,1,Thermal-imaging (1),8
+2026,Thermography (imaging),1,Thermography (imaging) (1),8
+2026,thrips,1,thrips (1),8
+2026,trade-off,1,trade-off (1),8
+2026,United States,1,United States (1),8
+2026,vision transformer,1,vision transformer (1),8
+2026,visual cue,1,visual cue (1),8
+2026,visualization,1,visualization (1),8
+2026,XAI,1,XAI (1),8
