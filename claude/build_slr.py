@@ -15,7 +15,7 @@ from docx.oxml import OxmlElement
 import copy
 
 FIG_DIR = "/home/claude/figures"
-OUT_PATH = "/mnt/user-data/outputs/XAI_Agricultural_CV_SLR.docx"
+OUT_PATH = "claude/outputs/XAI_Agricultural_CV_SLR.docx"
 
 # ──────────────────────── HELPERS ────────────────────────────────────────
 def set_cell_bg(cell, hex_color):
