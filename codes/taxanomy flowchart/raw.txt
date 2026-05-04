@@ -1,0 +1,41 @@
+Hierarchical Taxonomy of XAI Methods (Adapted for Agriculture)[cite: 1]
+
+1. Temporal Stage (Interpretability Timing)[cite: 1]
+   ├── Ante-hoc / Intrinsic Interpretability (White-box Models)[cite: 1]
+   │    ├── Linear Regression (e.g., Baseline yield prediction)[cite: 1]
+   │    └── Decision Trees & Rule-based Systems (e.g., Irrigation triggers)[cite: 1]
+   │
+   └── Post-hoc Interpretability (Black-box Models)[cite: 1]
+        ├── Feature Attribution Methods[cite: 1]
+        └── Visualization Techniques[cite: 1]
+
+2. Algorithmic Approach (Adapted for Ag-Vision)[cite: 1]
+   ├── Gradient-based Methods (Crucial for Image Analysis)[cite: 1]
+   │    ├── Saliency Maps (e.g., Weed vs. crop differentiation)[cite: 1]
+   │    └── Grad-CAM / Grad-CAM++ (e.g., Leaf lesion highlighting)[cite: 1]
+   │
+   ├── Game-theoretic / Perturbation-based Approaches[cite: 1]
+   │    ├── SHAP (e.g., Spectral band importance for crop health)[cite: 1]
+   │    └── LIME (e.g., Single plant disease diagnosis)[cite: 1]
+   │
+   └── Attention-based Explanations[cite: 1]
+        ├── Self-Attention Weight Visualization (e.g., Extracting attention scores from ViTs)[cite: 1]
+        └── Attention Heatmaps (e.g., Drone image patching for livestock counting)[cite: 1]
+
+3. Scope of Explanation[cite: 1]
+   ├── Local Interpretability (Explaining individual predictions)[cite: 1]
+   │    ├── LIME (e.g., Flagging a single greenhouse plant for nutrient deficiency)[cite: 1]
+   │    └── Grad-CAM (e.g., Highlighting a specific defect on a graded tomato)[cite: 1]
+   │
+   └── Global Interpretability (Explaining overall model behavior)[cite: 1]
+        └── SHAP Summary Plots (e.g., Proving a model relies on NDVI globally)[cite: 1]
+
+4. Output Modality (Representation of Explanation)[cite: 1]
+   ├── Visual Overlays / Heatmaps (Image-based)[cite: 1]
+   │    ├── Pixel-level Saliency / Grad-CAM overlays (e.g., Visualizing disease spots)[cite: 1]
+   │    └── Attention Heatmaps (e.g., Highlighting specific regions in aerial crop images)[cite: 1]
+   ├── Feature Importance Charts (Tabular/Statistical)[cite: 1]
+   │    ├── Summary Plots (e.g., Global SHAP variable plots for yield predictors)[cite: 1]
+   │    └── Force Plots / Bar Charts (e.g., Local LIME weights for specific predictions)[cite: 1]
+   └── Textual / Rule-based Representations[cite: 1]
+        └── Decision Paths (e.g., Explicit IF-THEN rules extracted for autonomous irrigation systems)[cite: 1]
